@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/trustiva/static/css/main.4e215b05.css",
-    "main.js": "/trustiva/static/js/main.0be8527b.js",
+    "main.js": "/trustiva/static/js/main.bef3029c.js",
     "static/js/787.7ac7221e.chunk.js": "/trustiva/static/js/787.7ac7221e.chunk.js",
     "static/media/logo1.png": "/trustiva/static/media/logo1.ca209e0f14f6b21fb5fb.png",
     "index.html": "/trustiva/index.html",
     "main.4e215b05.css.map": "/trustiva/static/css/main.4e215b05.css.map",
-    "main.0be8527b.js.map": "/trustiva/static/js/main.0be8527b.js.map",
+    "main.bef3029c.js.map": "/trustiva/static/js/main.bef3029c.js.map",
     "787.7ac7221e.chunk.js.map": "/trustiva/static/js/787.7ac7221e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e215b05.css",
-    "static/js/main.0be8527b.js"
+    "static/js/main.bef3029c.js"
   ]
 }
