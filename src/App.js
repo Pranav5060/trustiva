@@ -1,5 +1,5 @@
 import './App.css';
-import { HashRouter as Router, Routes, Route} from 'react-router-dom';
+import { Routes, Route, Router } from 'react-router-dom'
 import Navbar from './Components/Navbar';
 import Carousal from './Components/Carousal';
 import Footer from './Components/Footer';
@@ -9,18 +9,13 @@ import Contact from './Components/Contact';
 function App() {
   return (
     <div className="App">
-        <Router>
         <Navbar/>
         <Routes>
         <Route path='/signup' element={<Signup/>} />
-        </Routes>
-        <Routes>
         <Route path='/contact' element={<Contact/>}/>
         </Routes>
         <Carousal/>
         <Footer/>
-        </Router> 
-        
     </div>
   );
 }
