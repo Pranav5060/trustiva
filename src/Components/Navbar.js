@@ -9,7 +9,9 @@ const Navbar=()=>{
         <button class="navbar-toggler navbar-toggler-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><i class="fas fa-bars"></i></button>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ms-auto">
+          <Link to={'/'}>
             <li class="nav-item"><a class="nav-link link-scroll active" href="/">Home</a></li>
+            </Link>
             <Link to={'/contact'}>
             <li class="nav-item"><a class="nav-link link-scroll" href="/contact">Contact</a></li>
             </Link>
